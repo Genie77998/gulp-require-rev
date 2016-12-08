@@ -1,0 +1,19 @@
+{
+  "name": "gulp-require-rev",
+  "version": "1.1.1",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "email":"307769268@qq.com",
+  "author":"wj77998",
+  "devDependencies": {},
+  "_from": "gulp-require-rev@1.0.0",
+  "_resolved": "http://registry.npm.taobao.org/gulp-require-rev/download/gulp-require-rev-1.1.1.tgz"
+}
